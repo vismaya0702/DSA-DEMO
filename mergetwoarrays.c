@@ -2,6 +2,7 @@
 int main()
 {
 int a[10],b[10],c[20],i,n,m;
+printf("Merging 2 arrays");
 printf("Enter the size of the first array : ");
 scanf("%d",&n);
 printf("Enter %d elements : ",n);
